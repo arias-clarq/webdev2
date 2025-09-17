@@ -20,7 +20,7 @@ if($_SESSION["login_token"] != true){
 <body>
 
     <?php include "module/navbar.php";?>
-    <h1>Welcome to Admin Dashboard</h1>
+    <h1>Welcome to Customer Dashboard</h1>
     <?php
     if (isset($_SESSION["success_msg"])) {
         ?>
