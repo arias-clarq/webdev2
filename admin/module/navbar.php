@@ -17,6 +17,9 @@
         <a href="User_Mgt.php" class="btn nav-link">User_Mgt</a>
       </li>
       <li class="nav-item">
+        <a href="Product_Mgt.php" class="btn nav-link">Product_Mgt</a>
+      </li>
+      <li class="nav-item">
         <a href="#" class="btn nav-link text-danger " data-bs-toggle="modal" data-bs-target="#logout">Logout</a>
       </li>
     </ul>
